@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-05T10:30:42.574830Z",
+  "generated_at": "2026-06-05T13:50:29.637027Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 497,
+      "duration_ms": 491,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 394,
+      "duration_ms": 281,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 469,
-      "duration_ms": 14845,
+      "item_count": 498,
+      "duration_ms": 16483,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1087,
+      "duration_ms": 1213,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3047,
-      "duration_ms": 1713,
+      "duration_ms": 1667,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 77,
-      "duration_ms": 667,
+      "item_count": 78,
+      "duration_ms": 455,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 425,
+      "duration_ms": 325,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1168,
+      "duration_ms": 4174,
       "error": null
     },
     {
@@ -70,27 +70,26 @@
       "site_name": "AI今日热榜",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 48,
+      "duration_ms": 42,
       "error": "403 Client Error: Forbidden for url: https://aihot.today/"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 21374,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=sspai (Caused by ResponseError('too many 500 error responses'))"
+      "ok": true,
+      "item_count": 146,
+      "duration_ms": 393,
+      "error": null
     }
   ],
-  "successful_sites": 8,
+  "successful_sites": 9,
   "failed_sites": [
-    "aihot",
-    "newsnow"
+    "aihot"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4773,
-  "items_before_topic_filter": 6327,
-  "items_in_24h": 878,
+  "fetched_raw_items": 4949,
+  "items_before_topic_filter": 6282,
+  "items_in_24h": 864,
   "rss_opml": {
     "enabled": false,
     "path": null,
