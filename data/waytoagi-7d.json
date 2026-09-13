@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-13T18:00:28.492210Z",
+  "generated_at": "2026-09-13T21:00:43.784649Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-09-13",
-  "count_today": 6,
+  "count_today": 8,
   "updates_today": [
+    {
+      "date": "2026-09-13",
+      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-13",
       "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
@@ -38,8 +48,18 @@
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 32,
+  "count_7d": 34,
   "updates_7d": [
+    {
+      "date": "2026-09-13",
+      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-09-13",
       "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
